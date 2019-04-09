@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from '../assets/img/logo.svg';
-import Tick from './Tick';
+import './Tick';
 import '../assets/scss/App.scss';
 
 class App extends Component {
